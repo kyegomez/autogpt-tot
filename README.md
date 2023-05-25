@@ -27,6 +27,12 @@ Our roadmap for AutoGPT-TOT is as follows:
 2. **Enhancement of Reasoning Capabilities**: Post integration, we plan to enhance the reasoning capabilities of the AI.
 
 
+- Implement eval states in agent config file
+
+- Replace regular response with tree of thoughts.solve method, maybe add in dynamic rewards
+
+- make tree of thought configs dynamic and shapeless and metamorphic 
+
 ## Contributing 🤝
 
 We encourage and welcome contributions from the community. No contribution is too small, and all contributions will be acknowledged appropriately. To contribute, please follow the guidelines specified in the [Contributing Guide](CONTRIBUTING.md). Together, we can help to advance AI and create a better future for humanity!
